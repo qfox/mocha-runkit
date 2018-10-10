@@ -1,4 +1,4 @@
-# Mocha + RunKit = :hearts:
+# Mocha + RunKit = ❤️
 
 Stupidly simple alpha version of mocha runner adapted for RunKit with broken interface.
 
