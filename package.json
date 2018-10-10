@@ -1,6 +1,6 @@
 {
   "name": "mocha-runkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mocha for RunKit (simplified for now)",
   "main": "mocha-runkit.js",
   "runkitExampleFilename": "./runkit-example.js",
