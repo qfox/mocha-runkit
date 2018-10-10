@@ -1,7 +1,7 @@
 const { tests } = require('./mocha-runkit');
 
 (async () => {
-console.log(JSON.stringify(await tests({
+await tests({
     'lul': async() => {
         assert.equal(1, 1);
     },
@@ -9,5 +9,5 @@ console.log(JSON.stringify(await tests({
     'wtf': async() => {
         assert.equal(1, 2);
     },
-})));
+});
 })();
