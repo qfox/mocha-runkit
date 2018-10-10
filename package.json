@@ -1,0 +1,24 @@
+{
+  "name": "mocha-runkit",
+  "version": "0.0.1",
+  "description": "Mocha for RunKit (simplified for now)",
+  "main": "mocha-runkit.js",
+  "runkitExampleFilename": "./runkit-example.js",
+  "files": [
+    "runkit-example.js",
+    "mocha-runkit.js"
+  ],
+  "scripts": {},
+  "keywords": [
+    "mocha",
+    "runkit",
+    "html"
+  ],
+  "author": "Alexey Yaroshevich <zxqfox@gmail.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "@runkit/value-viewer": "1.0.0",
+    "mocha": "5.2.0",
+    "mocha-simple-html-reporter-callback": "1.1.0"
+  }
+}
